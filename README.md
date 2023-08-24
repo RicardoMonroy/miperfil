@@ -1,29 +1,37 @@
-# 👋 Hola, mi nombre es Ricardo Monroy
+# Ricardo Monroy
 
-| Lenguaje   | Habilidad |
-| ---------- | --------- |
-| HTML       | 10/10     |
-| CSS        | 9.5/10    |
-| JavaScript | 9/10      |
-| Bootstrap  | 9.2/10    |
+_Desarrollador de Software y Profesor de Cátedra_
 
-# 🙍‍♂️ Info
+[Email](mailto:rmonroy@tecmilenio.mx) / [Website]() / [Linkedin]() / [GitHub]() / [Twitter]() / [DEV]()
 
-Hola, soy el diseñador de este curso, además soy profesor en la Universidad Tecmilenio, puedes visitar la página oficial en: [tecmilenio.mx](https://tecmilenio.mx/es). Si gustan ponerse en contacto, pueden escribirme un correo a: [rmonroy@tecmilenio.mx](mailto:rmonroy@tecmilenio.mx)
+# 🥼 Experiencia
 
-Algunos de mis intereses:
+**Programador web** @ [Tecmilenio](https://tecmilenio.mx) (Ago - _Presente_)
+Programación de interfaces de cursos que ofrece la Universidad
 
-- Motocicletas
-- Dormir
-- Programar
-- Dar clases
+- Más de 70 cursos actualizados.
+- Más de 15 cursos creados.
+- **Tecnología usada**: HTML, CSS y JavaScript
 
-Mi top 5 de comida:
+# 🖼️ Voluntariado
 
-1. Barbacoa
-2. Birria
-3. Pasta
-4. Mole
-5. Tacos
+## Conferencias Públicas
 
-![](https://media.giphy.com/media/3LiHyLUJ3uRFu/giphy.gif)
+**Charla sobre pensamiento computacional** @ Cetis 105. Santa María Magdalena, Qro. (Ago. 2020)
+Conferencia Magistral sobre pensamiento computacional.
+
+# 🏆 Certificaciones
+
+**Seis Sigma Yellow Belt** @ SigmaPro, Inc. (2014)
+**Yellow Belt** @ SigmaPro, Inc. (2017)
+**Liderazgo Estratégico** @ Universidad Tecmilenio (2015)
+**Microsoft Office 2013** @ Certiport (2017)
+
+# 💬 Lenguajes
+
+mx **Español** Nativo
+us **Inglés** B1
+
+# 🏫 Educación
+
+**Tecmilenio Campus Querétaro** Ingeniería Industrial y de Sistemas [Tecmilenio](https://tecmilenio.mx) - Querétaro, México. (2012 - 2015).
